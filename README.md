@@ -17,10 +17,10 @@ https://colab.research.google.com/drive/1xhlFHoEvsHE30bDTGRpx2T79gYEe3d4q
 
 4.очистка данных  
 
-Язык программирования: Python
+Язык программирования: Python  
 
 
-Библиотеки, которые были использованы:
+#Библиотеки, которые были использованы:
 
 
 import pandas as pd  
